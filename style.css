@@ -29,7 +29,7 @@ nav{
 }
 
 .logo img{
-    height:55px;
+    height:70px;
 }
 
 nav ul{
@@ -67,7 +67,8 @@ nav ul li a:hover{
 }
 
 .hero h1{
-    font-size:64px;
+    font-size:80px;
+    font-weight:800;
     margin-bottom:20px;
 }
 
